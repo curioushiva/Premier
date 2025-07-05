@@ -1,5 +1,5 @@
-// // for smooth scrolling
-// const scroll = new LocomotiveScroll({
-//     el: document.querySelector('#main'),
-//     smooth: true
-// });
+// for smooth scrolling
+const scroll = new LocomotiveScroll({
+    el: document.querySelector('#main'),
+    smooth: true
+});
