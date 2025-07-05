@@ -16,7 +16,7 @@ This website is built using:
 - **CSS** – For styling with modern layout practices  
 - **CSS Animations** – For motion effects and transitions  
 - **Locomotive Scroll** – For smooth scrolling experience
-- UI is from Set Redesign on Behance
+- **UI** – is from Set Redesign on Behance
   
 ## 🌐 Website
 
